@@ -19,7 +19,7 @@ A associate software engineer at cogoport. I am a Data Science enthusiast, Web d
 <!-- i have made below https location from : https://github-readme-streak-stats.herokuapp.com/demo/ -->
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=AmanjeetCogoport&theme=github-dark)">
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmanjeetCogoport&theme=hacker)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmanjeetCogoport&theme=hacker)](https://git.io/streak-stats)
 
 
 
