@@ -17,14 +17,18 @@ A associate software engineer at cogoport. I am a Data Science enthusiast, Web d
 <p>
 <a align= "center" href="https://github.com/TechnicalAmanjeet">
 <!-- i have made below https location from : https://github-readme-streak-stats.herokuapp.com/demo/ -->
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=TechnicalAmanjeet&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=AmanjeetCogoport&theme=hacker)">
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmanjeetCogoport&theme=hacker)](https://git.io/streak-stats) -->
+
+
 
 <!-- added gif file into program -->
 <img align="right" height="350" width="400" src="https://github.com/AmanjeetCogoport/AmanjeetCogoport/blob/main/ezgif.com-gif-maker.gif" /> </a>
 </p>
 
  <!-- below link i have generated from : https://github.com/anuraghazra/github-readme-stats -->
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=TechnicalAmanjeet&count_private=true&theme=dark&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=AmanjeetCogoport&count_private=true&theme=dark&show_icons=true" />
 
  <!-- below link i have created from : https://shields.io/ -->
 <p align="left"> <a href="https://twitter.com/TechAmanjeet" target="blank"><img src="https://img.shields.io/twitter/follow/TechAmanjeet?style=social" alt="TechAmanjeet" /></a> </p>
