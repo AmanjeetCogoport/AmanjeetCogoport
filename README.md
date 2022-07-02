@@ -17,9 +17,9 @@ A associate software engineer at cogoport. I am a Data Science enthusiast, Web d
 <p>
 <a align= "center" href="https://github.com/TechnicalAmanjeet">
 <!-- i have made below https location from : https://github-readme-streak-stats.herokuapp.com/demo/ -->
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=AmanjeetCogoport&theme=github-dark)">
+<!-- <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=AmanjeetCogoport&theme=github-dark)"> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmanjeetCogoport&theme=hacker)](https://git.io/streak-stats)
+[![Amanjeet's Streak](https://github-readme-streak-stats.herokuapp.com?user=AmanjeetCogoport&theme=hacker)](https://git.io/streak-stats)
 
 
 
@@ -28,7 +28,10 @@ A associate software engineer at cogoport. I am a Data Science enthusiast, Web d
 </p>
 
  <!-- below link i have generated from : https://github.com/anuraghazra/github-readme-stats -->
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=AmanjeetCogoport&count_private=true&theme=dark&show_icons=true" />
+<!-- <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=AmanjeetCogoport&count_private=true&theme=dark&show_icons=true" /> -->
+
+
+![Amanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanjeetCogoport&show_icons=true&theme=radical)
 
  <!-- below link i have created from : https://shields.io/ -->
 <p align="left"> <a href="https://twitter.com/TechAmanjeet" target="blank"><img src="https://img.shields.io/twitter/follow/TechAmanjeet?style=social" alt="TechAmanjeet" /></a> </p>
